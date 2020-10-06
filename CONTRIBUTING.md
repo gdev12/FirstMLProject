@@ -1,4 +1,4 @@
-# This file is for the Conributors
+# This file is for the Contributors
 
 ## Main Author:
 Ansh Sharma [wiredfoxterrier's Github](https://github.com/wiredfoxterrier)
